@@ -1,9 +1,5 @@
 function Home(){
-  return <link rel="stylesheet" href="index.html"/>
-
-   
-  
-  
+  return <div>home</div>
 }
 
-export default Home;
+export default Home
