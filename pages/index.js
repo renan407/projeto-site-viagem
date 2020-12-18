@@ -1,5 +1,9 @@
 function Home(){
-  return <div>home oie</div>
+  return <div>
+    <title>The Road</title>
+    
+    home oie</div>
+  
 }
 
 export default Home
